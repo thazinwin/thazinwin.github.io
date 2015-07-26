@@ -1,0 +1,53 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "À MA CONNAISSANCE"
+description: > # this means to ignore newlines until "email:"
+   To the best of one's knowledge
+
+email: thazinwin1988@gmail.com
+#blog logo
+logo: "/assets/images/tz_logo.svg"
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: 'Thazin Win'
+author: 'Thazin Win'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://thazinwin.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/thazinwin
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/thazinwin
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
